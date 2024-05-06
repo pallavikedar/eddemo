@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/pallavikedar/eddemo.git/static/css/main.00a0cef6.css",
+    "main.js": "/pallavikedar/eddemo.git/static/js/main.1a1e5bf5.js",
+    "static/media/back.webp": "/pallavikedar/eddemo.git/static/media/back.93d3f802b480eeabae07.webp",
+    "static/media/phone.png": "/pallavikedar/eddemo.git/static/media/phone.88589639550be22733c3.png",
+    "static/media/desktop.png": "/pallavikedar/eddemo.git/static/media/desktop.6704cac2d909aacf39bd.png",
+    "static/media/awrapper.webp": "/pallavikedar/eddemo.git/static/media/awrapper.031ce77a398171427673.webp",
+    "static/media/bg.webp": "/pallavikedar/eddemo.git/static/media/bg.baa1024a4ae092566a75.webp",
+    "index.html": "/pallavikedar/eddemo.git/index.html",
+    "main.00a0cef6.css.map": "/pallavikedar/eddemo.git/static/css/main.00a0cef6.css.map",
+    "main.1a1e5bf5.js.map": "/pallavikedar/eddemo.git/static/js/main.1a1e5bf5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00a0cef6.css",
+    "static/js/main.1a1e5bf5.js"
+  ]
+}
