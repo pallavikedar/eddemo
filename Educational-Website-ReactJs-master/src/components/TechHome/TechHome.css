@@ -1,0 +1,25 @@
+.TWrapper{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+   
+}
+.ImgWrapper{
+    display: flex;
+    flex-direction: row;
+  
+    /* justify-content: space-between; */
+}
+.ImgWrapper .img1 {
+    height: 411px;
+    width: 250px;
+    position: relative;
+    right: -65px;
+    
+}
+.ImgWrapper .img2 {
+    height: 419px;
+    width: 596px;
+    /* position:relative ; */
+    
+}
